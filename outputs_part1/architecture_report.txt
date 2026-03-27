@@ -1,0 +1,11 @@
+Part 1: 2D Neural Field Architecture Report
+=========================================
+Positional Encoding Levels (L): 10
+Hidden Width: 256
+Hidden Layers: 3
+Output Activation: Sigmoid
+Learning Rate: 0.01
+Iterations: 3000
+Batch Size: 10000
+Loss Function: MSELoss
+Optimizer: Adam
